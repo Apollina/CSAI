@@ -1,6 +1,8 @@
 # CSAI
 Hack for the [HackJunction2018](https://hackjunction.com/) 
 
+![alt text](https://github.com/ziky90/CSAI/blob/master/images/demo.png)
+
 ## Technical description of all the components of the system
 
 We have build a system that consist of one frontend application and 2 separate backend appliacations.
