@@ -20,7 +20,7 @@ https://github.com/ziky90/FAEMDE_python_backend
 
 Python Flask server based aplication for:
 - Face localization: Using Viola-Jones algoritm
-- Facial Expression detection: Using the CNN model pretrained in EmoPy library.
+- Facial Expression detection: Using the pretrained CNN model from the EmoPy library
 
 ### NLP and database related backend
 https://github.com/Ihsara/TEEMDE
