@@ -1,6 +1,8 @@
 # CSAI
 Hack for the [HackJunction2018](https://hackjunction.com/) 
 
+Project [description](https://projects.hackjunction.com/projects/junction-2018/5bf85dae6a75040015931cc8)
+
 ![alt text](https://github.com/ziky90/CSAI/blob/master/images/demo.png)
 
 ## Technical description of all the components of the system
